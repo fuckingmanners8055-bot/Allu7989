@@ -1,0 +1,6 @@
+{
+  "name": "Remix Strongbox",
+  "description": "Private, encrypted personal vault for storing passwords, PDF documents, and structured data information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
